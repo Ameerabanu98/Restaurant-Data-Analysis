@@ -88,14 +88,14 @@ The dataset contains the following key columns:
 ## 📁 Files Included
 
 - `restaurant_analysis.ipynb` – Main notebook with code and visuals
-- `restaurant_data.csv` – Dataset file (uploaded manually in Colab)
+- `dataset.csv` – Dataset file (uploaded manually in Colab)
 - `README.md` – Project overview
 
 ---
 
 ## 🙋‍♂️ Author
 
-**[Ameera Banu]**  
+**Ameera Banu**  
 Data Analyst & Visualization Enthusiast
 
 
